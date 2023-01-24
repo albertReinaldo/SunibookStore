@@ -82,7 +82,7 @@
                     </ul>
                 </li>
             </ul>
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{Auth::user()->name}}</a>
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-size: 20px">{{Auth::user()->name}}</a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="/profile/{{auth()->user()->id}}">Edit Profile</a></li>
                         <li><hr class="dropdown-divider bg-light"></li>
