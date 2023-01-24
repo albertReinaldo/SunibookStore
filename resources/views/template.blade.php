@@ -182,7 +182,7 @@
             Privacy Policy | Terms of Service | Contact Us | About Us | Legal Notices
         </div>
         <div class="d-flex justify-content-center p-1">
-            Copyright @Kelompok berapa
+            Copyright @Kelompok 10
         </div>
     </div>
 </footer>
